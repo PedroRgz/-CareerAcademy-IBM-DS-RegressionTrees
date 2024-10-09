@@ -1,7 +1,3 @@
-Here is the revised README with a personal touch:
-
----
-
 # CareerAcademy-IBM-DS-RegressionTrees
 
 Practicing regression trees with large dataset
